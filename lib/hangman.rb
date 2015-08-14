@@ -85,7 +85,7 @@ class Game
 
   def load_game
     puts "Its the classic game of Hangman!"
-    puts "To save a during a game, enter \'save\'"
+    puts "To save during a game, enter \'save\'"
     puts "To load a game now, enter \'load\'"
     puts "Otherwise, hit enter to begin!"
 
